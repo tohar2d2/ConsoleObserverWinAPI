@@ -1,0 +1,123 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31332.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/logger.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8882b359bdbbf623ab063c1be0107d0b61d731bc4a1eecca1dc4646ae0e1514f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/logger.h"
+          },
+          "hashes": {
+            "sha-256": "548b20f692eb3cdc52f26ec7eff161f83b31b918b67f7b40c17e74215d6db142"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/iobserver.h"
+          },
+          "hashes": {
+            "sha-256": "3f47548eea135077c95bebd06a69bea869f4d972652850304fed1a38472e8c36"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/window.h"
+          },
+          "hashes": {
+            "sha-256": "e74b4626b4352661d68c5bdd91714d32d838663fd63a38ff47500d112a2863ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/isubject.h"
+          },
+          "hashes": {
+            "sha-256": "5590b94299aca724501e1c3cd4d9e54644a40c5e10fbfafc99ed08547d730f3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/cursorinwindowreactionstrategy.h"
+          },
+          "hashes": {
+            "sha-256": "e375a9fe3fd35385bfbfdc6ac6b7970be2a67434d5f962d3eafa065323540b53"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/abstractcursorinwindowreaction.h"
+          },
+          "hashes": {
+            "sha-256": "bf4db0b131226af6e34af848bebfc2433233ab69a8448c297c708226a0c36107"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/itextprinter.h"
+          },
+          "hashes": {
+            "sha-256": "b735410186471e5c01cc3a95f18b8d72ddde73731df5f78d1d83cbdf714c241e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/enterreaction.h"
+          },
+          "hashes": {
+            "sha-256": "5fee384498e46d4c64adddb5ffd187bb603281b55be562265917fa0ee60ee4c1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/leavereaction.h"
+          },
+          "hashes": {
+            "sha-256": "765a1deb9af2386c7ef742dc2cb5d65dfad1b22f13ee42ba3f28dd1d06355659"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/greentextprinter.h"
+          },
+          "hashes": {
+            "sha-256": "e47bbf15c0fc3b2fb421e74712c4687b89f15c1a39a96c3441d28cb5ad4d01f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/bluetextprinter.h"
+          },
+          "hashes": {
+            "sha-256": "24f31cd9cf08033486d45be47bd59cc5cffbf01750915483e81d8448ec9b8f37"
+          }
+        }
+      ]
+    }
+  ]
+}

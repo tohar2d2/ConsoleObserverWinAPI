@@ -1,0 +1,12 @@
+﻿  AbstractCursorInWindowReaction.cpp
+  CursorInWindowReactionStrategy.cpp
+  EnterReaction.cpp
+  GreenTextPrinter.cpp
+  LeaveReaction.cpp
+  main.cpp
+  Logger.cpp
+  BlueTextPrinter.cpp
+  Window.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  homeWork1_consoleObserver.vcxproj -> C:\Users\tohar\source\repos\homeWork1_consoleObserver\x64\Debug\homeWork1_consoleObserver.exe

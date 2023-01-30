@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.32.31332.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/greentextprinter.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ff674d960369d4535d4e2d1cffe5cee759f76946f88cad6a1f8a0087f1828519"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/greentextprinter.h"
+          },
+          "hashes": {
+            "sha-256": "e47bbf15c0fc3b2fb421e74712c4687b89f15c1a39a96c3441d28cb5ad4d01f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/tohar/source/repos/homework1_consoleobserver/homework1_consoleobserver/itextprinter.h"
+          },
+          "hashes": {
+            "sha-256": "b735410186471e5c01cc3a95f18b8d72ddde73731df5f78d1d83cbdf714c241e"
+          }
+        }
+      ]
+    }
+  ]
+}

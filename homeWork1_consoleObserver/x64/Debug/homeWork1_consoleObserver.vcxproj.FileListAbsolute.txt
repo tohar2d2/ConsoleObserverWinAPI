@@ -1,0 +1,2 @@
+C:\Users\tohar\source\repos\homeWork1_consoleObserver\x64\Debug\homeWork1_consoleObserver.exe.lastcodeanalysissucceeded
+C:\Users\tohar\source\repos\homeWork1_consoleObserver\homeWork1_consoleObserver\x64\Debug\NativeCodeAnalysis.read.1.tlog
